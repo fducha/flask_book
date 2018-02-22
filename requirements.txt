@@ -8,3 +8,5 @@ click==6.7
 itsdangerous==0.24
 Flask-WTF
 WTForms
+Flask-SQLAlchemy
+Flask-Migrate
