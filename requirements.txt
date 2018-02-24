@@ -10,3 +10,4 @@ Flask-WTF
 WTForms
 Flask-SQLAlchemy
 Flask-Migrate
+Flask-Login
