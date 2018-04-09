@@ -11,3 +11,4 @@ WTForms
 Flask-SQLAlchemy
 Flask-Migrate
 Flask-Login
+unittest2
